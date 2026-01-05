@@ -1,15 +1,3 @@
-### Hi there! 👋 
-
-I’m Baosi, a data scientist.
-
-### My interests 👀
-
-- Data Engineering
-- Data Science
-- Statistics
-- Python
-- Machine Learning
-
 <!--
 - 🌱 I’m currently learning ... 
 - 💞️ I’m looking to collaborate on ...
